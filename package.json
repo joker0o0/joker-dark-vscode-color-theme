@@ -1,0 +1,26 @@
+{
+    "name": "joker-dark",
+    "displayName": "Joker Dark Theme",
+    "description": "仿sublime主题Default.sublime-theme",
+    "version": "1.0.1",
+    "publisher": "Joker0o0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Joker Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/joker-dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/joker0o0/joker-dark-vscode-color-theme.git"
+    },
+}
