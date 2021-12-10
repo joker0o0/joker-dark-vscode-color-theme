@@ -1,9 +1,15 @@
 {
     "name": "joker-dark",
     "displayName": "Joker Dark Theme",
-    "description": "仿sublime主题Default.sublime-theme",
+    "description": "Do you like sublime? change your vscode theme to sublime theme!",
+    "icon": "images/logo.jpg",
     "version": "1.0.1",
     "publisher": "Joker0o0",
+    "author": {
+        "name": "Joker",
+        "email": "401972840@qq.com"
+    },
+    "homepage": "",
     "engines": {
         "vscode": "^1.63.0"
     },
@@ -22,5 +28,5 @@
     "repository": {
         "type": "git",
         "url": "https://github.com/joker0o0/joker-dark-vscode-color-theme.git"
-    },
+    }
 }

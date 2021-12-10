@@ -14,5 +14,8 @@ If you have any suggestions, you can contact me by email(401972840@qq.com)
 
 You can also fork code to your own repository for custom modifications,[click here to jump to github](https://github.com/joker0o0/joker-dark-vscode-color-theme.git )
 
+## screenshot
+![theme](images/logo.png)
+
 
 **Enjoy!**
